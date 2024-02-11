@@ -17,7 +17,7 @@ The dataset used is "housing_in_london_yearly_variables.csv", which includes a v
 - **Advanced Data Manipulation**: Calculating salary growth and identifying high growth boroughs.
 - **Statistical Analysis**: Correlation analysis and comparing median salaries over years.
 
-2. Supervised Learning
+# 2. Supervised Learning
   # Supervised Machine Learning Analysis: Housing in London
 
 This project applies supervised machine learning techniques to analyze the housing market in London. Utilizing a dataset that encompasses yearly variables like median salary, life satisfaction, population size, and more, we delve into classification and regression analyses to uncover insights into housing trends.
