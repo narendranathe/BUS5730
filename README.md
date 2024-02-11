@@ -27,6 +27,7 @@ Ensure you have Python installed along with the following libraries:
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/<your-github-username>/housing-london-analysis.git
+git clone https://github.com/narendranathe/housing-london-analysis.git
 
-3. Unsupervised Learning
+
+3. Unsupervised learning
