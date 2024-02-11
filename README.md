@@ -28,8 +28,5 @@ Clone this repository to your local machine:
 
 ```bash
 git clone https://github.com/narendranathe/housing-london-analysis.git
-exit N
-
-
 
 3. Unsupervised learning
